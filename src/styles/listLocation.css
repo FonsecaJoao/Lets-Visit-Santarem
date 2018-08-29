@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:300,600');
+
+.search-field,
+li {
+  font-family: 'Open Sans', sans-serif;
+  font-weight: 300;
+  font-size: 1em;
+}
+
+.search-field {
+  margin: 10px 10px 10px 30px;
+  padding: 10px;
+  border: none;
+}
+
+li {
+  width: 180px;
+  list-style-type: none;
+  cursor: pointer;
+}
