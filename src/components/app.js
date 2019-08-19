@@ -25,7 +25,7 @@ export default class App extends Component {
     componentDidMount() {
         window.initMap = this.initMap;
         window.gm_authFailure = this.gm_authFailure;
-        loadMap('https://maps.googleapis.com/maps/api/js?key=AIzaSyCH3km1T2qmngCN-D4V1CuEdaODHPU7It0&callback=initMap');
+        loadMap('https://maps.googleapis.com/maps/api/js?key=AIzaSyCgxp1rwD6U87QIofJzbINWAs4UeO1c24I&callback=initMap');
     }
 
     /**
