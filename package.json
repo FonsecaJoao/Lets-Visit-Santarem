@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "acorn": "^7.0.0",
+    "acorn": "^7.1.1",
     "acorn-jsx": "^5.0.1",
     "ajv": "^6.10.2",
     "escape-string-regexp": "^2.0.0",
